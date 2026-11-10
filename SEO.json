@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "school-management-system",
+  "description": "School Management System — Education Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Educational ERP covering admissions, student records, exam grading, online fee processing, and parent portals. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "education",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/school-management-system"
+}
